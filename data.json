@@ -1,0 +1,296 @@
+{
+    "courses": [
+        {
+            "name": "Computer Hardware, Operating System and Networking",
+            "instructor": "ILANCHEZHIAN. COMET Compuserve Pvt Ltd 1,10,226 Students",
+            "rating": 4.2,
+            "p":"For Any Graduates/Engineering/Diploma/Arts & Science/Freshers/Home Users/Individuals/Desktop Support/FM/Service Engineer",
+            "reviews": "(404)",
+            "hours": "20 total hours",
+            "lectures": "43 lectures",
+            "level": "All Levels",
+            "price": "₹2,229",
+            "image": "https://img-c.udemycdn.com/course/240x135/3703364_335a_2.jpg"
+        },
+        {
+            "name": "The Complete Electronics Course: Analog Hardware Design",
+            "instructor": "Hardware Academy",
+            "rating": 4.6,
+            "p":"Over 30.000+ enrolled! Learn Electronics from Zero To An Advanced Understanding of How Circuits Work !",
+            "reviews": "(3742)",
+            "hours": "112 total hours",
+            "lectures": "24.5 lectures",
+            "level": "Beginner",
+            "price": "₹3,099",
+            "image": "https://img-c.udemycdn.com/course/240x135/2548629_e360_4.jpg"
+        },
+        {
+            "name": "Crash Course Electronics and PCB Design",
+            "instructor": "Andre LaMothe",
+            "rating": 4.7,
+            "p":"Learn Analog / Digital Electronics and PCB Design from the Ground up with Altium CircuitMaker and Labcenter Proteus",
+            "reviews": "(16,492)",
+            "hours": "112 total hours",
+            "lectures": "43 lectures",
+            "level": "All Levels",
+            "price": "₹3,099",
+            "image": "https://img-c.udemycdn.com/course/240x135/401998_6e4a.jpg"
+        },
+        {
+            "name": "Master IT Hardware Fundamentals - Complete Training",
+            "instructor": "Dan Mill",
+            "rating": 4.7,
+            "reviews": "(60)",
+            "p":"Master the Basics of IT Hardware. . Get to terms with Networking, Server Infrastructure, Workstation ",
+            "hours": "3 total hours",
+            "lectures": "48 lectures",
+            "level": "Beginner",
+            "price": "₹2,229",
+            "image": "https://img-c.udemycdn.com/course/240x135/5241134_1444.jpg"
+        },
+        {
+            "name": "Crash Course Arduino and Microcontroller Development",
+            "instructor": "Andre LaMothe",
+            "rating": 4.7,
+            "reviews": "(725)",
+            "hours": "111.5 total hours",
+            "p":"Master the Essentials of Embedded Systems, Electronics, Firmware Design and Arduino C/C++ Programming",
+            "lectures": "128 lectures",
+            "level": "All Levels",
+            "price": "₹3,499",
+            "image": "https://img-c.udemycdn.com/course/240x135/6012846_17e9_19.jpg"
+        },
+        
+        {
+            "name": "Conquer Computer Science: Hardware & Software (Part 1/5)",
+            "instructor": "John Iglar",
+            "rating": 4.6,
+            "p":"A Course for Students Preparing for Any High School Computer Science Exams: iGCSE, GCSE, IB, American Diploma and more",
+            "reviews": "(53)",
+            "hours": "4 total hours",
+            "lectures": "27 lectures",
+            "level": "All Levels",
+            "price": "₹799",
+            "image": "https://img-c.udemycdn.com/course/240x135/5185228_066b_8.jpg"
+        },        
+        {
+            "name": "Hardware Cell Phone Mobile Repair & Microsoldering (2024)",
+            "instructor": "CPU Academy",
+            "rating": 4.2,
+            "p":"From Beginner to Pro: Mastering Mobile phone repair like a technician who work in a big company.",
+            "reviews": "507",
+            "hours": "4 total hours",
+            "lectures": "65 lectures",
+            "level": "Expert",
+            "price": "₹2,299",
+            "image": "https://img-c.udemycdn.com/course/240x135/5151804_3259_2.jpg"
+        },
+        {
+            "name": "Linux Device Drivers - Communicating with Hardware",
+            "instructor": "Linux Trainer",
+            "rating": 4.0,
+            "reviews": "(126)",
+            "p":"Kernel Programming for 10 Mapped and Memory Mapped devices",
+            "hours": "3 total hours",
+            "lectures": "84 lectures",
+            "level": "Intermediate",
+            "price": "₹1,799",
+            "image": "https://img-c.udemycdn.com/course/240x135/3500990_c976.jpg"
+        },
+        
+        {
+            "name": "Industrial Embedded Systems Hardware Penetration Testing",
+            "instructor": "Marcel Rick-Cen",
+            "rating": 4.9,
+            "reviews": "30",
+            "p":"Unlock offensive hardware security skills with tools and tactics tailored for the TCS/OT and IIoT domain!",
+            "hours": "4.5 total hours",
+            "lectures": "128 lectures",
+            "level": "Expert",
+            "price": "₹1,499",
+            "image": "https://img-c.udemycdn.com/course/240x135/5981228_9351.jpg"
+        }
+        ,
+        {
+            "name": "Crash Course Digital Electronics",
+            "instructor": "Hardware Academy",
+            "rating": 4.5,
+            "reviews": "673",
+            "p":"Master Digital Electronics and Robotics.Go from zero to building a real CPU!",
+            "hours": "8.5 total hours",
+            "lectures": "97 lectures",
+            "level": "Intermediate",
+            "price": "₹3,499",
+            "image": "https://img-c.udemycdn.com/course/240x135/3080482_467f_3.jpg"
+        },
+
+
+        {
+            "name": "Hardware Product Management",
+            "instructor": "Parag Beeraka",
+            "rating": 4.0,
+            "reviews": "30",
+            "p":"The streamlined resources for advancing your career in Product Management",
+            "hours": "3 total hours",
+            "lectures": "40 lectures",
+            "level": "All Levels",
+            "price": "₹1,499",
+            "image": "https://img-c.udemycdn.com/course/240x135/3740756_a8a4_3.jpg"
+        },
+        {
+            "name": "The complete computer hardware class 'Full Course'",
+            "instructor": "Elyas Hassanzai",
+            "rating": 4.6,
+            "reviews": "22",
+            "p":"The complete computer hardware class 'Full Course' ",
+            "hours": "4 total hours",
+            "lectures": "24 lectures",
+            "level": "All Levels",
+            "price": "₹799",
+            "image": "https://img-c.udemycdn.com/course/240x135/5510598_d16e_2.jpg"
+        },
+        {
+            "name": "Complete Electronics Hardware Design Course 2025 -EsteemPCB",
+            "instructor": "Avil Mishra",
+            "rating": 4.3,
+            "reviews": "(1,159)",
+            "p":"Complex Mixed Signal Board Design Course (Ethernet PHY, STM32F407, STM32F103, CH340C, DAC/MIC, 24Bit ADC, 36W Drivers)",
+            "hours": "21.5 total hours",
+            "lectures": "65 lectures",
+            "level": "All Levels",
+            "price": "₹2,299",
+            "image": "https://img-c.udemycdn.com/course/240x135/3836432_daab_9.jpg"
+        },
+        {
+            "name": "Learn to Build a Computer (PC) in 2024 - all types!",
+            "instructor": "David  Pedley",
+            "rating": 4.6,
+            "reviews": "(71)",
+            "p":"How I budget for and pick the right parts for any computer build ,watch me build a pc, setup software and test it!",
+            "hours": "6 total hours",
+            "lectures": "57 lectures",
+            "level": "Beginner",
+            "price": "₹2,499",
+            "image": "https://img-c.udemycdn.com/course/240x135/5842628_0834.jpg"
+        },
+        {
+            "name": "Fundamentals of Computer Hardware",
+            "instructor": "Goodin Tech",
+            "rating": 4.3,
+            "reviews": "(35)",
+            "p":"Learn The Fundamentals of Computer Hardware: Exploring Peripherals, and Components",
+            "hours": "3 total hours",
+            "lectures": "28 lectures",
+            "level": "All Levels",
+            "price": "₹799",
+            "image": "https://img-c.udemycdn.com/course/240x135/5297182_e57a.jpg"
+        },
+        {
+            "name": "Linux Device Drivers - Communicating with Hardware",
+            "instructor": "Linux Trainer",
+            "rating": 4.0,
+            "reviews": "(126)",
+            "p":"Kernel Programming for 10 Mapped and Memory Mapped devices",
+            "hours": "3 total hours",
+            "lectures": "84 lectures",
+            "level": "All Levels",
+            "price": "₹1,799",
+            "image": "https://img-c.udemycdn.com/course/240x135/3500990_c976.jpg"
+        },
+        {
+            "name": "Computer Hardware Engineering Certification Training",
+            "instructor": "Uplatz Training",
+            "rating": 3.9,
+            "reviews": "(31)",
+            "p":"Learn Hardware, Computer Architecture & Instructions, Processors, Memory, Monitors, Printers, Disk Drives, NTFS, CD ROM.",
+            "hours": "10 total hours",
+            "lectures": "18 lectures",
+            "level": "All Levels",
+            "price": "₹1,499",
+            "image": "https://img-c.udemycdn.com/course/240x135/4353534_8ecc_2.jpg"
+        },
+        {
+            "name": "IT Fundamentals - Everything you need to know about IT",
+            "instructor": "Imran Afzal",
+            "rating": 4.6,
+            "p":"Computer Skills -- Great help forpassing compTIA A+ (220-1001) and ITF + (FCO-U61)",
+            "reviews": "(7,144)",
+            "hours": "125 total hours",
+            "lectures": "166 lectures",
+            "level": "All Levels",
+            "price": "₹3,099",
+            "image": "https://img-c.udemycdn.com/course/240x135/3627542_1828_4.jpg"
+        },
+        {
+            "name": "Arduino For Beginners - 2025 Complete Course",
+            "instructor": "Edouard Renard",
+            "rating": 4.3,
+            "reviews": "(2,729)",
+            "p":"Arduino Step by Step | Robotics | Hands-on | Arduino Projects | Home Automation | Arduino Programming",
+            "hours": "16 total hours",
+            "lectures": "160 lectures",
+            "level": "Beginner",
+            "price": "₹3,109",
+            "image": "https://img-c.udemycdn.com/course/240x135/3842862_84f0_5.jpg"
+        },
+        {
+            "name": "Arduino Complete Course: Build 30+ projects step by step",
+            "instructor": "Dev NirWal,Ritu Antil",
+            "rating": 4.5,
+            "reviews": "(392)",
+            "p":"Learn Arduino from basics to advance step by step with real working robotic projects",
+            "hours": "19.5 total hours",
+            "lectures": "165 lectures",
+            "level": "Intermediate",
+            "price": "₹3,039",
+            "image": "https://img-c.udemycdn.com/course/240x135/4189304_eaf1_4.jpg"
+        },
+        {
+            "name": "45-Day Arduino Bootcamp",
+            "instructor": "Dr. Peter Dalmaris",
+            "rating": 3.9,
+            "p":"Comprehensive Bootcamp: Learn Arduino Programming, Electronics, and Project Development",
+            "reviews": "(11)",
+            "hours": "40.5 total hours",
+            "lectures": "422 lectures",
+            "level": "Expert",
+            "price": "₹799",
+            "image": "https://img-c.udemycdn.com/course/240x135/1041748_8239_2.jpg"
+        },
+        {
+            "name": "Arduino Programming and Hardware Fundamentals with Hackster",
+            "instructor": "Learn electrical engineering basics to build circuits and program Arduino to make wearables, robots, and IoT devices",
+            "rating": 4.5,
+            "reviews": "(4,755)",
+            "p":"Learn electrical engineering basics to build circuits and program Arduino to make wearables,robots,and IoT devices",
+            "hours": "7.5 total hours",
+            "lectures": "173 lectures",
+            "level": "Beginner",
+            "price": "₹3,999",
+            "image": "https://img-c.udemycdn.com/course/240x135/4189304_eaf1_4.jpg"
+        }
+       
+       
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
